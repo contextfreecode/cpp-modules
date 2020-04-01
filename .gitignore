@@ -1,0 +1,9 @@
+/gcm.cache/
+/notes/
+/split
+/out/
+/pcm/
+*.gcm
+*.pcm
+*.o
+env.sh
